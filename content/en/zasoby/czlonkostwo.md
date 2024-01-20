@@ -1,6 +1,8 @@
 ---
-title: "Membership Hackerspace Trójmiasto"
+title: Membership Hackerspace Trójmiasto
 url: /en/resources/membership
+category:
+  - dokumentacja
 ---
 
 Hackerspace Trójmiasto is a non-profit organisation, supported by membership fees.
