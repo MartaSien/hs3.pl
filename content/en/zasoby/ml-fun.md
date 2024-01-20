@@ -6,7 +6,6 @@ tags:
   - akademia hs3
 category:
   - edukacja
-  - software
 ---
 # ML-FUN
 
