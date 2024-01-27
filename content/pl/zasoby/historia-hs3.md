@@ -1,6 +1,10 @@
 ---
-title: "Historia Hackerspace Trójmiasto"
-tags: ["hackerspace", "hs3"]
+title: Historia Hackerspace Trójmiasto
+tags:
+  - hackerspace
+  - hs3
+category:
+  - outside-the-box
 ---
 
 Oficjalne otwarcie Hackerspace Trójmiasto odbyło się 2 lipca 2016 roku.
