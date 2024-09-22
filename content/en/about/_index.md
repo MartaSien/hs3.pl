@@ -36,3 +36,8 @@ We know how important transparency is. Our budget has been run openly since the 
 Hackerspace Trójmiasto cooperates with many organizations and foundations, we are legally and accountingly supported by the CODE:ME Foundation.
 
 We act for the good of the community, not for profit. All activities that we carry out stem from the passion and commitment of good people and companies.
+
+
+## Hackerspace Trójmiasto virtual tour 
+
+{{< sketchfab id="hs3-hackerspace-trojmiasto-cd86faffc47d49e7b0c9261a2f51f472" >}}
