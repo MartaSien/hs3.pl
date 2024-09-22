@@ -10,6 +10,7 @@ sliderImage:
   - image: "/images/stor/story-04.jpg"
   - image: "/images/stor/story-05.jpg"
 url: /o-nas
+model: "Test string"
 ---
 
 {{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}
