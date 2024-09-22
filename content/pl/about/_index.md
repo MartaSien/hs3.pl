@@ -3,6 +3,7 @@ title: "O nas"
 date: 2022-01-08T10:41:03+06:00
 subTitle: >
         Misją Hackerspace Trójmiasto jest stworzenie otwartej przestrzeni technologicznej i budowanie społeczności ludzi wspierających się w rozwoju oraz dzielących wiedzą w przyjaznej atmosferze.
+        {{< sketchfab id="hs3-hackerspace-trojmiasto-cd86faffc47d49e7b0c9261a2f51f472" >}}
 sliderImage:
   - image: "/images/stor/story-01.jpg"
   - image: "/images/stor/story-02.jpg"
@@ -38,6 +39,4 @@ Hackerspace Trójmiasto współpracuje z wieloma organizacjami i fundacjami, jes
 
 Działamy dla otoczenia, a nie dla zysku. Wszystkie działania, które prowadzimy są oparte na pasji i zaangażowaniu społeczności oraz dobrych ludzi i firm.
 
-## Wirtualna wycieczka po Hackerspace Trójmiasto
 
-{{< sketchfab id="hs3-hackerspace-trojmiasto-cd86faffc47d49e7b0c9261a2f51f472" >}}
