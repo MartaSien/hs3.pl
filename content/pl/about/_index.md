@@ -12,6 +12,8 @@ sliderImage:
 url: /o-nas
 ---
 
+{{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}
+
 ## Hackerspace to przestrzeń
 
 W podstawowej formie Hackerspace jest otwartą przestrzenią technologiczną zrzeszającą tych, którzy chcą tworzyć przyjazną społeczność by budować wspólne projekty, rozwijać się i dzielić się wiedzą.
@@ -37,5 +39,3 @@ Wiemy jak ważna jest przejrzystość. Nasz budżet jest prowadzony w sposób ot
 Hackerspace Trójmiasto współpracuje z wieloma organizacjami i fundacjami, jesteśmy wspomagani prawnie i księgowo przez Fundację CODE:ME.
 
 Działamy dla otoczenia, a nie dla zysku. Wszystkie działania, które prowadzimy są oparte na pasji i zaangażowaniu społeczności oraz dobrych ludzi i firm.
-
-{{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}

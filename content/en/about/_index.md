@@ -11,6 +11,8 @@ sliderImage:
   - image: "/images/stor/story-05.jpg"
 ---
 
+{{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}
+
 ## Hackerspace is a space
 
 In its basic form, Hackerspace is an open technological space bringing together those who want to create a friendly community to build joint projects, develop and share knowledge.
