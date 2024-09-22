@@ -38,4 +38,4 @@ Hackerspace Trójmiasto współpracuje z wieloma organizacjami i fundacjami, jes
 
 Działamy dla otoczenia, a nie dla zysku. Wszystkie działania, które prowadzimy są oparte na pasji i zaangażowaniu społeczności oraz dobrych ludzi i firm.
 
-{{< sketchfab id="hs3-hackerspace-trojmiasto-cd86faffc47d49e7b0c9261a2f51f472" >}}
+{{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}

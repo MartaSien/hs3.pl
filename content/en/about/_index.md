@@ -37,4 +37,4 @@ Hackerspace Trójmiasto cooperates with many organizations and foundations, we a
 
 We act for the good of the community, not for profit. All activities that we carry out stem from the passion and commitment of good people and companies.
 
-{{< sketchfab id="hs3-hackerspace-trojmiasto-cd86faffc47d49e7b0c9261a2f51f472" >}}
+{{< sketchfab id="cd86faffc47d49e7b0c9261a2f51f472" >}}
