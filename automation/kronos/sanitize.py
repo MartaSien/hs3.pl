@@ -16,7 +16,6 @@ def sanitize(s):
     return re.sub("_+", "_", "".join([map[c] if c in map else "_" for c in s]))
 
 def remove_emoji(s):
-    def remove_emoji(s):
     emoji_pattern = re.compile("["
             u"\U0001F600-\U0001F64F"  # emoticons
             u"\U0001F300-\U0001F5FF"  # symbols & pictographs
