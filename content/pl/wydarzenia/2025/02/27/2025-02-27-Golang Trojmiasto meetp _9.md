@@ -1,5 +1,5 @@
 ---
-title: "Golang Trjmiasto meetp #9"
+title: "Golang Tr\u00f3jmiasto meetp #9"
 tags: ["hs3"]
 outputs:
 - html

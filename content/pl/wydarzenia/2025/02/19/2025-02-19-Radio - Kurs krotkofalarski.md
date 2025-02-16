@@ -1,5 +1,5 @@
 ---
-title: "Radio - Kurs krtkofalarski"
+title: "Radio - Kurs kr\u00f3tkofalarski"
 tags: ["hs3"]
 outputs:
 - html

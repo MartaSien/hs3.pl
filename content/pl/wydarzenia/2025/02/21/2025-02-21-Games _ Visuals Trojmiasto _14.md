@@ -1,5 +1,5 @@
 ---
-title: "Games & Visuals Trjmiasto #14"
+title: "Games & Visuals Tr\u00f3jmiasto #14"
 tags: ["hs3"]
 outputs:
 - html

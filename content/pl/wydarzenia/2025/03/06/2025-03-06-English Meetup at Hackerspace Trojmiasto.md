@@ -1,5 +1,5 @@
 ---
-title: "English Meetup at Hackerspace Trjmiasto"
+title: "English Meetup at Hackerspace Tr\u00f3jmiasto"
 tags: ["hs3"]
 outputs:
 - html

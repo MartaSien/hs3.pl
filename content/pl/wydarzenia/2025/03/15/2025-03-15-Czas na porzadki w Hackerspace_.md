@@ -1,5 +1,5 @@
 ---
-title: "Czas na porzdki w Hackerspace!"
+title: "Czas na porz\u0105dki w Hackerspace!"
 tags: ["hs3"]
 outputs:
 - html
