@@ -15,6 +15,7 @@ eventInfo:
   dates:
     extra:
       2025-07-11 17:00-21:00: null
+featureImage: https://cdn.discordapp.com/guild-events/1390251171071000616/306b3078238982631bdf74b809d535d7.png?size=1024
 
 ---
 
